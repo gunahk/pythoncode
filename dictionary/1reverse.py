@@ -1,5 +1,4 @@
-#inpStr=input('Enter the Word : ')
-inpStr = 'qwer df dfgsdg dfgfg'
+inpStr=input('Enter the Word : ')
 inpStrSplit=inpStr.split(' ')
 print(inpStrSplit)
 inpStrSplitRev=inpStrSplit.reverse()
