@@ -1,0 +1,18 @@
+1)Write a Python program to insert a given string at the beginning of all items in a list.
+Sample list : [1,2,3,4], string : emp
+Expected output : ['emp1', 'emp2', 'emp3', 'emp4']
+
+2)Write a Python program to remove and print every third number from a list of numbers until the list becomes empty.
+
+2)Write a Python program to get the Fibonacci series between 0 to 50.
+
+4)Write a Python program that prints all the numbers from 0 to 6 except 3 and 6.
+Note : Use 'continue' statement. 
+
+5)Write a Python program to find numbers between 100 and 400 (both included) where each digit of a number is an even number. The numbers obtained should be printed in a comma-separated sequence.
+
+6)Write a program to check if a number is prime number
+
+7)Write a program to print all factors of a number
+eg, input: 10
+	output: 1,2,5,10
